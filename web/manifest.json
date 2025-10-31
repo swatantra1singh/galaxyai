@@ -1,0 +1,11 @@
+{
+    "name": "galaxyai",
+    "short_name": "galaxyai",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "A basic Flutter application for GalaxyAI",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
